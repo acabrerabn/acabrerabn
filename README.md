@@ -1,4 +1,4 @@
-<a href="https://arturocabrera.com/"><img align="right" width="270" height="165" src="https://www.branchnew.com/LOGO.svg"></a>
+<a href="https://www.branchnew.com/"><img align="right" width="270" height="165" src="https://www.branchnew.com/LOGO.svg"></a>
 
 # Hi there, I am Arturo Cabrera 👋
 
